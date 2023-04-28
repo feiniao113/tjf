@@ -1,13 +1,15 @@
 {
 	"sites": [
 		{
-			"key": "360_spider",
+			"key": "csp_SP360",
 			"name": "360",
 			"type": 3,
-			"api": "csp_SP33",
+			"api": "csp_SP360",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"changeable": 0,
+			"jar": "./zhuzige.jar"
 		},
 		{
 			"key": "csp_Nbys",
@@ -1773,6 +1775,6 @@
 		"cdnjs.hnfenxun.com",
 		"cms.qdwght.com"
 	],
-	"wallpaper": "https://yydsys.top/bg.php",
-	"spider": "  http://8.210.220.114/jar/fan.txt "
+	"wallpaper": "",
+	"spider": "./fan0426.jar "
 }
