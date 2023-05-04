@@ -396,10 +396,8 @@
 			"key": "csp_奥特影视",
 			"name": "奥特",
 			"type": 3,
-			"api": "csp_Auete",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"api": "https://raw.githubusercontent.com/52670576/tvbox/main/js/lib/drpy2.min.js",
+			"ext":"https://raw.githubusercontent.com/52670576/tvbox/main/js/Auete.js"
 		},
 		{
 			"key": "drpy_js_子子影视",
