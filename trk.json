@@ -76,7 +76,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontent.com/52670576/tvbox/main/sub/HDmoli.json"
+			"ext": "https://raw.githubusercontent.com/52670576/tvbox/main/sub/HDmoli.json",
+			"jar": "./YSC.jar"
 		},
 		{
 			"key": "量子资源",
