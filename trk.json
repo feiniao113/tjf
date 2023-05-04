@@ -498,7 +498,8 @@
 			"name": "BT",
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/52670576/tvbox/main/js/lib/drpy2.min.js",
-			"ext":"https://raw.githubusercontent.com/52670576/tvbox/main/js/bttwoo.js"
+			"ext":"https://raw.githubusercontent.com/52670576/tvbox/main/js/bttwoo.js",
+			"jar": "./YSC.jar"
 		},
 		{
 			"key": "csp_Xinsj",
@@ -719,15 +720,6 @@
 				"综艺",
 				"动漫"
 			]
-		},
-		{
-			"key": "csp_Btwtoo",
-			"name": "BT",
-			"type": 3,
-			"api": "csp_Bttwoo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "py_Yinl2",
