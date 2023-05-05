@@ -612,15 +612,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "SPIQY",
-			"name": "奇异",
-			"type": 3,
-			"api": "csp_Itv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "drpy_js_奇异",
 			"name": "奇异",
 			"type": 3,
