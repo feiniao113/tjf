@@ -603,15 +603,6 @@
 			"ext": "https://yydsys.top/duo/json/饭团HD.json"
 		},
 		{
-			"key": "SPQQ",
-			"name": "腾讯",
-			"type": 3,
-			"api": "csp_Qtv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "drpy_js_奇异",
 			"name": "奇异",
 			"type": 3,
