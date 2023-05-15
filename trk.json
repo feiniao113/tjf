@@ -523,7 +523,7 @@
 			"name": "️搜狐",
 			"type": 1,
 			"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
-			"playUrl": "https://jx.xmflv.com/?url=",
+			"playUrl": "https://jm.itiantai.cn/?url=",
 			"searchable": 1,
 			"quickSearch": 1,
 			"playerType": 2,
