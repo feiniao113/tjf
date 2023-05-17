@@ -178,16 +178,6 @@
 			"ext": "http://app.mengdandan.com/xgapp.php/v1/"
 		},
 		{
-			"key": "csp_appys_2号币",
-			"name": "2号币",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://phoebe.cf/api.php/iptv/vod/"
-		},
-		{
 			"key": "csp_Czsapp",
 			"name": "厂长",
 			"type": 3,
