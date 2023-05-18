@@ -314,16 +314,6 @@
 			"jar": "./YSC.jar"
 		},
 		{
-			"key": "csp_Xinsj",
-			"name": "视觉",
-			"type": 3,
-			"api": "csp_Xinsj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.6080dy2.com"
-		},
-		{
 			"key": "csp_Ysgc",
 			"name": "工厂",
 			"type": 3,
