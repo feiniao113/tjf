@@ -580,6 +580,23 @@
 			"type": 2,
 			"url": "Sequence"
 		},
+		
+		{
+			"name": "东",
+			"type": 1,
+			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+		},
+		{
+			"name": "南",
+			"type": 0,
+			"url": "https://jx.777jiexi.com/player/?url="
+		},
+		
+		{
+			"name": "测试解析1",
+			"type": 1,
+			"url": "http://dmjun.top/home/api?type=ys&uid=1308098&key=knprsyzABHSUVWZ359&url="
+		},
 		{
 			"name": "自动嗅探",
 			"type": 3,
@@ -597,16 +614,6 @@
 			"name": "智能探测QL",
 			"type": 0,
 			"url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url="
-		},
-		{
-			"name": "测试解析1",
-			"type": 1,
-			"url": "http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="
-		},
-		{
-			"name": "测试解析2",
-			"type": 1,
-			"url": "http://dmjun.top/home/api?type=ys&uid=1308098&key=knprsyzABHSUVWZ359&url="
 		},
 		{
 			"name": "虾米",
@@ -629,74 +636,14 @@
 			"url": "https://www.nxflv.com/?url="
 		},
 		{
-			"name": "CK",
-			"type": 0,
-			"url": "https://www.ckplayer.vip/jiexi/?url="
-		},
-		{
-			"name": "ckmov",
-			"type": 0,
-			"url": "https://www.ckmov.vip/api.php?url="
-		},
-		{
-			"name": "东",
-			"type": 1,
-			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-		},
-		{
-			"name": "南",
-			"type": 0,
-			"url": "https://jx.777jiexi.com/player/?url="
-		},
-		{
-			"name": "VIP酷云官方解析_付费",
-			"type": 1,
-			"url": "https://api.json.icu/api/?key=7c6d496074bf08ce46d0ca8870e11924&url="
-		},
-		{
 			"name": "VIP鑫总官方解析_付费",
 			"type": 1,
 			"url": "https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=adfkqtuwzQSUWX0137&url="
 		},
 		{
-			"name": "VIP_1988解析_免费",
-			"type": 1,
-			"url": "https://vip.198830.com/json/json.php?url="
-		},
-		{
-			"name": "VIP_Mxone解析_免费",
-			"type": 1,
-			"url": "http://43.139.182.58/mgtv/geturl.php?url="
-		},
-		{
-			"name": "VIP肥波官方解析_免费",
-			"type": 1,
-			"url": "https://b.umkan.cc/API.php?url="
-		},
-		{
-			"name": "VIP8090解析_免费",
-			"type": 0,
-			"url": "https://www.8090.la/8090/?url="
-		},
-		{
-			"name": "VIP_晨曦解析_付费",
-			"type": 1,
-			"url": "https://ai.itcxo.cn/chenxi.php?key=chenxijx&url="
-		},
-		{
-			"name": "VIP_晓成云解析_付费",
-			"type": 1,
-			"url": "http://118.112.240.209:808/api/?key=BbsGXy34SmW0njx3M9&url="
-		},
-		{
 			"name": "某某",
 			"type": 0,
 			"url": "https://jx.bozrc.com:4433/player/?url="
-		},
-		{
-			"name": "麒麟",
-			"type": 0,
-			"url": "http://39.107.101.221:2025/iphone/100.php?appId=10005&version=1.0.7&device_id=8158d1ef3fb638c5&url="
 		},
 		{
 			"name": "综合1/B站",
