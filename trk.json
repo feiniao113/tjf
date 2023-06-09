@@ -45,7 +45,7 @@
 			"name": "️量子",
 			"type": 1,
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
-			"playUrl": "json:http://jx.84jia.com/m3u8ts.php?url="",
+			"playUrl": "json:http://jx.84jia.com/m3u8ts.php?url= ",
 			"m3u8ads": "hd.youyhn.com",
 			"searchable": 1,
 			"quickSearch": 1,
