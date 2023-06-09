@@ -11,23 +11,6 @@
 			"jar": "./spider.jar"
 		},
 		{
-			"key": "js豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
-		},
-		{
-			"key": "直播转点播",
-			"name": "电视",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/zbzdb.js",
-			"ext": "https://yydsys.top/duo/json/zb.json"
-		},
-		{
 			"key": "非凡",
 			"name": "️非凡",
 			"type": 1,
@@ -158,13 +141,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "drpy_js_子子影视",
-			"name": "子子",
-			"type": 3,
-			"api": "https://gitee.com/bin-shao/tvbox/raw/master/lib/drpy2.min.js",
-			"ext": "https://gitee.com/bin-shao/tvbox/raw/master/js/DZ子子影视.js"
-		},
-		{
 			"key": "csp_fantuan",
 			"name": "饭团",
 			"type": 3,
@@ -173,17 +149,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://www.fantuanhd.com"
-		},
-		{
-			"key": "csp_哔滴影视",
-			"name": "哔滴",
-			"type": 3,
-			"api": "csp_Bdys01",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "",
-			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/QJJAR.jar"
 		},
 		{
 			"key": "csp_Lib",
@@ -204,99 +169,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_石榴电影",
-			"name": "石榴",
-			"type": 3,
-			"api": "csp_ShiLiuDY",
-			"filterable": 1,
-			"playerType": 2,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "",
-			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/QJJAR.jar"
-		},
-		{
-			"key": "csp_XBPQ_qiyou",
-			"name": "奇优",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/奇优影院.json"
-		},
-		{
-			"key": "csp_XBPQ_LIBVIO",
-			"name": "LIB",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/LIBVIO.json"
-		},
-		{
-			"key": "csp_panghu",
-			"name": "胖虎",
-			"type": 3,
-			"api": "csp_Panghu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"m3u8ads": "hd.youyhn.com"
-		},
-		{
-			"key": "csp_xBPQ_胖虎",
-			"name": "胖虎",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/panghu.json",
-			"m3u8ads": "hd.youyhn.com"
-		},
-		{
-			"key": "csp_XBPQ_饭团",
-			"name": "饭团",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://yydsys.top/duo/json/饭团HD.json"
-		},
-		{
-			"key": "drpy_js_奇异",
-			"name": "奇异",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/js/qzys.js"
-		},
-		{
-			"key": "drpy_js_优酷",
-			"name": "优酷",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/js/youku.js"
-		},
-		{
-			"key": "drpy_js_菜狗",
-			"name": "菜狗",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/js/caigou.js"
 		},
 		{
 			"key": "zy_新浪资源",
@@ -359,46 +231,6 @@
 				"综艺",
 				"动漫"
 			]
-		},
-		{
-			"key": "py_Yinl2",
-			"name": "音乐",
-			"type": 3,
-			"api": "py_Yinl2",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/Bili/yinyue.py"
-		},
-		{
-			"key": "js_B站精简",
-			"name": "B站",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/js/B站精简.js"
-		},
-		{
-			"key": "py_zyy",
-			"name": "中医",
-			"type": 3,
-			"api": "py_zyy",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/Bili/zyy.py"
-		},
-		{
-			"key": "py_xiangsh",
-			"name": "相声",
-			"type": 3,
-			"api": "py_xiangsh",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/Bili/xiaopin.py"
 		}
 	],
 	"lives": [
