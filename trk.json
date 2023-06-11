@@ -132,15 +132,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "csp_明明影视",
-			"name": "明明",
-			"type": 3,
-			"api": "csp_AppMr",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "csp_fantuan",
 			"name": "饭团",
 			"type": 3,
@@ -197,39 +188,6 @@
 				"日剧",
 				"泰剧",
 				"体育"
-			]
-		},
-		{
-			"key": "api_xml_搜糊资源",
-			"name": "️搜狐",
-			"type": 1,
-			"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
-			"playUrl": "https://jm.itiantai.cn/?url=",
-			"searchable": 1,
-			"quickSearch": 1,
-			"playerType": 2,
-			"filterable": 1,
-			"categories": [
-				"国产剧",
-				"韩国剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"动作片",
-				"科幻片",
-				"战争片",
-				"奇幻片",
-				"喜剧片",
-				"爱情片",
-				"恐怖片",
-				"犯罪片",
-				"悬疑片",
-				"惊悚片",
-				"剧情片",
-				"冒险片",
-				"记录片",
-				"综艺",
-				"动漫"
 			]
 		}
 	],
