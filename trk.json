@@ -48,7 +48,7 @@
 		},
 		{
 			"key": "量子资源",
-			"name": "🥑┃量子┃资源",
+			"name": "量子",
 			"type": 1,
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
 			"playurl": "https://jxjson.cf/?url=",
