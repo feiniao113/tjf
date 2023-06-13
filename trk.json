@@ -10,18 +10,6 @@
 			"filterable": 1,
 			"jar": "./spider.jar"
 		},
-		{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js","jar": "./2.jar"},
-
-		{"key":"爱奇艺","name":"💜奇艺┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/iqy.js","jar": "./2.jar"},
-
-		{"key":"优酷","name":"🆒优酷┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js","jar": "./2.jar"},
-
-		{"key":"360","name":"🔍360┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360.js","jar": "./2.jar"},
-
-		{"key":"搜狗","name":"🐶搜狗┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js","jar": "./2.jar"},
-
-		{"key":"芒果","name":"🍋芒果┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js","jar": "./2.jar"},
-
 		{
 			"key": "csp_xml_非凡资源",
 			"name": "非凡",
