@@ -15,7 +15,8 @@
 			"name": "360",
 			"type": 3,
 			"api": "./js/drpy2.min.js",
-			"ext": "./js/360影视.js"
+			"ext": "./js/360影视.js",
+			"jar": "./fm.jar"
 	
 		},
 		{
