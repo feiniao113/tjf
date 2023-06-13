@@ -15,8 +15,8 @@
 			"name": "360",
 			"type": 3,
 			"api": "./js/drpy2.min.js",
-			"ext": "./js/360影视.js",
-			"jar": "./spider.jar"
+			"ext": "./js/360影视.js"
+	
 		},
 		{
 			"key": "csp_xml_非凡资源",
